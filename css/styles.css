@@ -9,6 +9,9 @@ p, a {
 	font-family: 'Work Sans', sans-serif;
 	color: #E6D9D7;
 }
+a:hover, a:focus {
+	color: #F8300C;
+}
 h1, h2, h3 {
 	line-height: 0.6em;
 }
