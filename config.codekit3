@@ -29,6 +29,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/css\/styles-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/styles-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/css\/styles.css": {
 		"aP": 1,
 		"bl": 0,
@@ -38,6 +48,97 @@
 		"oAP": "\/css\/styles-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"\/fonts\/basiersquare-bold-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/basiersquare-bold-webfont.eot",
+		"oF": 0
+		},
+	"\/fonts\/basiersquare-bold-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/basiersquare-bold-webfont.ttf",
+		"oF": 0
+		},
+	"\/fonts\/basiersquare-bold-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/basiersquare-bold-webfont.woff",
+		"oF": 0
+		},
+	"\/fonts\/basiersquare-bold-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/basiersquare-bold-webfont.woff2",
+		"oF": 0
+		},
+	"\/fonts\/basiersquare-medium-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/basiersquare-medium-webfont.eot",
+		"oF": 0
+		},
+	"\/fonts\/basiersquare-medium-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/basiersquare-medium-webfont.ttf",
+		"oF": 0
+		},
+	"\/fonts\/basiersquare-medium-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/basiersquare-medium-webfont.woff",
+		"oF": 0
+		},
+	"\/fonts\/basiersquare-medium-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/basiersquare-medium-webfont.woff2",
+		"oF": 0
+		},
+	"\/fonts\/basiersquare-regular-demo.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/basiersquare-regular-demo.html",
+		"oF": 0
+		},
+	"\/fonts\/basiersquare-regular-webfont.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/basiersquare-regular-webfont.eot",
+		"oF": 0
+		},
+	"\/fonts\/basiersquare-regular-webfont.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/basiersquare-regular-webfont.ttf",
+		"oF": 0
+		},
+	"\/fonts\/basiersquare-regular-webfont.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/basiersquare-regular-webfont.woff",
+		"oF": 0
+		},
+	"\/fonts\/basiersquare-regular-webfont.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/fonts\/basiersquare-regular-webfont.woff2",
+		"oF": 0
 		},
 	"\/images\/favicon.png": {
 		"ft": 32768,

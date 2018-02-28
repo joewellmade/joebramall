@@ -1,13 +1,66 @@
+/*Fonts*/
+@font-face {
+    font-family: 'basier_squareregular';
+    src: url('../fonts/basiersquare-regular-webfont.eot');
+    src: url('../fonts/basiersquare-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/basiersquare-regular-webfont.woff2') format('woff2'),
+         url('../fonts/basiersquare-regular-webfont.woff') format('woff'),
+         url('../fonts/basiersquare-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'basier_squarebold';
+    src: url('../fonts/basiersquare-bold-webfont.eot');
+    src: url('../fonts/basiersquare-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/basiersquare-bold-webfont.woff2') format('woff2'),
+         url('../fonts/basiersquare-bold-webfont.woff') format('woff'),
+         url('../fonts/basiersquare-bold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'basier_squaremedium';
+    src: url('../fonts/basiersquare-medium-webfont.eot');
+    src: url('../fonts/basiersquare-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/basiersquare-medium-webfont.woff2') format('woff2'),
+         url('../fonts/basiersquare-medium-webfont.woff') format('woff'),
+         url('../fonts/basiersquare-medium-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 body {
 	background: #E6D9D7;
 }
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Work Sans', sans-serif;
+	font-family: 'basier_squaremedium', sans-serif;
 	color: #E6D9D7;
+	letter-spacing: 0.04em;
 }
-p, a {
-	font-family: 'Work Sans', sans-serif;
+h3 {
+	letter-spacing: 0.02em;
+	text-transform: uppercase;
+}
+h5 {
+	text-transform: uppercase;
+}
+p {
+	font-family: 'basier_squareregular', sans-serif;
 	color: #E6D9D7;
+	font-size: 1.2em;
+	line-height: 1.35em;
+	letter-spacing: 0.05em;
+}
+a {
+	color: #E6D9D7;
+	font-family: 'basier_squaremedium', sans-serif;
+	text-decoration: none;
+	border-bottom: 2px solid #F8300C;
+	padding-bottom: 0.02em;
 }
 a:hover, a:focus {
 	color: #F8300C;
@@ -17,7 +70,7 @@ h1, h2, h3 {
 }
 .text {
 	background: #2910CE;
-	padding: 40px;
+	padding: 60px;
 	position: relative;
 	-webkit-box-shadow: -10px 10px 30px -10px rgba(0,0,0,0.75);
 	-moz-box-shadow: -10px 10px 30px -10px rgba(0,0,0,0.75);
